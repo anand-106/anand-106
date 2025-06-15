@@ -30,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/1.48.0/files/icons/langgraph.svg" height="35" alt="langgraph logo"  />
 </div>
 
 ###
